@@ -1,52 +1,11 @@
-# Sweet and Savory
+# Message Boardz
 
 ### Latest version date 2020/08/14
 ### By Spencer Moody
 
 ## Description
-_This app will allow a user to register for an account and create, update, delete and organize their inventory of "treats"._
 
 ## Specifications
-
-1. **Behavior:** The user is welcomed with a splash page and given the option to register as a new user.
-* **Input Example:** "Create Account"
-* **Output Example:** /Account
-
-2. **Behavior:** The user can Login to their existing account.
-* **Input Example:** "Login"
-* **Output Example:** /Account/Login
-
-3. **Behavior:** The user can view all Treats.
-* **Input Example:** "View all Treats"
-* **Output Example:** /Treats
-
-4. **Behavior:** The user can view all Flavors.
-* **Input Example:** "View all Treats"
-* **Output Example:** /Flavors
-
-5. **Behavior:** The user can view a Flavors details.
-* **Input Example:** "Flavor"
-* **Output Example:** /Flavors/Details
-
-6. **Behavior:** The user can view a Treats details.
-* **Input Example:** "Treat"
-* **Output Example:** /Treats/Details
-
-7. **Behavior:** The user can add new Treats.
-* **Input Example:** "Add a New Treat"
-* **Output Example:** /Treats/Create
-
-8. **Behavior:** The user can add a new Flavor to their Treats.
-* **Input Example:** "Add new Flavor"
-* **Output Example:** /Flavor/Create
-
-9. **Behavior:** The user can edit exisiting Treats/Flavors.
-* **Input Example:** "Edit Treats" or "Edit Flavors".
-* **Output Example:** /Treats/Edit/{TreatId} or /Flavors/Edit/{FlavorId}
-
-10. **Behavior:** The program will allow the user to delete Treats and Flavors.
-* **Input Example:** "Delete Treats" or "Delete Flavors"
-* **Output Example:** /Treats/Delete/{TreatId} or /Flavors/Delete/{FlavorId}
 
 ## Setup/Installation Requirements
 * .NET Core 2.2 will need to be installed, it can be found here https://dotnet.microsoft.com/download/dotnet-core/2.2
