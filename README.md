@@ -1,9 +1,13 @@
 # Message Boardz
 
+ ![Preview](https://images.unsplash.com/photo-1525255946160-aac47911684e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1027&q=80)
+
 ### Latest version date 2020/08/14
-### By Spencer Moody
+### By Spencer Moody, Christine Augustine, Noel Kirkland
 
 ## Description
+
+A message board API
 
 ## Specifications
 
@@ -34,4 +38,4 @@ No know bugs.
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-Copyright (c) 2020 Spencer Moody
+Copyright (c) 2020 Spencer Moody, Christine Augustine, Noel Kirkland
