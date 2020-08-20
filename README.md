@@ -17,12 +17,13 @@ A message board API
 * For Windows users, download MySQL here: https://dev.mysql.com/downloads/file/?id=484919
 * Install MySQL and set the system path, more information on how to do that can be found here: https://www.learnhowtoprogram.com/c-and-net/getting-started-with-c/installing-and-configuring-mysql
 * Enter the following commands to create the necessary database and tables:
-* Clone the GitHub repository by running `git clone https://github.com/smoody0208/SweetSavory.Solution.git` in the terminal.
-* Navigate to the `SweetSavory.Solution` folder.
-* Navigate to the `SweetSavory` subfolder and run `dotnet restore`.
+* Clone the GitHub repository by running `https://github.com/christinereina/MessageBoardApiUpdate.Solution` in the terminal.
+* Navigate to the `MessageBoardApiUpdate.Solution` folder.
+* Navigate to the `MessageBoardApiUpdate.Solution` subfolder and run `dotnet restore`.
 * Next run the command `dotnet ef database update` to update/create the schema using the most recent Migration.
 * Then run `dotnet build` to build the application.
 * The web app will now be available for you to view on `http://localhost:5000/`.
+
 ## Known Bugs and Support
 No know bugs.
 
